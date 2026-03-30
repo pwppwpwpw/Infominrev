@@ -2,7 +2,7 @@
 
 [Paper](https://link.springer.com/chapter/10.1007/978-3-031-72848-8_15) • Project Page: `site/index.html` 
 
-本仓库提供论文 *"Towards Compact Reversible Image Representations for Neural Style Transfer"* 的实现与训练/推理入口，包含模型结构、损失设计与高分辨率结果展示。
+本仓库提供论文 *"Towards Compact Reversible Image Representations for Neural Style Transfer"* （ECCV2024）的实现与训练/推理入口，包含模型结构、损失设计与高分辨率结果展示。
 
 ---
 
